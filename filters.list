@@ -1,18 +1,1 @@
-http://home.fredfiber.no/langsholt/adblock.txt
-https://dl.dropboxusercontent.com/u/1289327/abpxfiles/filtri.txt
-https://easylist-downloads.adblockplus.org/advblock.txt
-https://easylist-downloads.adblockplus.org/easylist.txt
-https://easylist-downloads.adblockplus.org/easyprivacy.txt
-https://easylist-downloads.adblockplus.org/malwaredomains_full.txt
-https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt
-https://easylist-downloads.adblockplus.org/fanboy-social.txt
-https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt
-https://raw.githubusercontent.com/gorhill/uBlock/master/assets/ublock/filters.txt
-https://raw.githubusercontent.com/gorhill/uBlock/master/assets/ublock/mirror-candidates.txt
-https://raw.githubusercontent.com/gorhill/uBlock/master/assets/ublock/privacy.txt
-https://raw.githubusercontent.com/gorhill/uBlock/master/assets/ublock/unbreak.txt
-https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt
-https://raw.githubusercontent.com/szpeter80/hufilter/master/hufilter.txt
-https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters.txt
-http://stanev.org/abp/adblock_bg.txt
-https://www.void.gr/kargig/void-gr-filters.txt
+https://www.fanboy.co.nz/r/fanboy-ultimate.txt; http://home.fredfiber.no/langsholt/adblock.txt; https://dl.dropboxusercontent.com/u/1289327/abpxfiles/filtri.txt; https://easylist-downloads.adblockplus.org/advblock.txt; https://easylist-downloads.adblockplus.org/easylist.txt; https://easylist-downloads.adblockplus.org/easyprivacy.txt; https://easylist-downloads.adblockplus.org/malwaredomains_full.txt; https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt; https://easylist-downloads.adblockplus.org/fanboy-social.txt; https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt; https://raw.githubusercontent.com/gorhill/uBlock/master/assets/ublock/filters.txt; https://raw.githubusercontent.com/gorhill/uBlock/master/assets/ublock/mirror-candidates.txt; https://raw.githubusercontent.com/gorhill/uBlock/master/assets/ublock/privacy.txt; https://raw.githubusercontent.com/gorhill/uBlock/master/assets/ublock/unbreak.txt; https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt; https://raw.githubusercontent.com/szpeter80/hufilter/master/hufilter.txt; https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters.txt; http://stanev.org/abp/adblock_bg.txt; https://www.void.gr/kargig/void-gr-filters.txt
